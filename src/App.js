@@ -4,7 +4,7 @@ import GifSearch from './Components/GifSearch';
 
 function App() {
   return (
-    <div>
+    <div className='mainbody'>
       <GifSearch />
       
     </div>
